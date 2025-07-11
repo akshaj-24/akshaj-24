@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akshaj-24, a teen programmer and aspirant for the vast technology industry
-- 👀 I’m interested in Programming and Software Development
-- 🌱 I’m currently developing my skills on Java and Python 
+- 👋 Hi, I’m @akshaj-24, Im studying CS and Stats at UBC, VP Tech at UBC Envision
+- 👀 I aim to become a software dev or data scientist
+- 🌱 I’m currently working on a startup idea
 - 📫 Reach me through my LinkedIn: https://www.linkedin.com/in/akshajsachdeva/
 
 <!---
