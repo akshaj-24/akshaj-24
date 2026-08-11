@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akshaj-24, Im studying CS and Stats at UBC, VP Tech at UBC Envision
-- 👀 I aim to become a software dev or data scientist
-- 🌱 I’m currently working on a startup idea
+- 👋 Hi, I’m @akshaj-24, Im studying CS @ UBC
+- 👀 I aim to become something
+- 🌱 I’m currently working on stuff
 - 📫 Reach me through my LinkedIn: https://www.linkedin.com/in/akshajsachdeva/
 
 <!---
